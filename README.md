@@ -4,7 +4,7 @@ This repository contains the source code for an AI Chatbot Website developed usi
 
 ## Live Demo
 
-You can view the live demo of the website at [https://palakportfolio9.netlify.app/chatbot/index.html](https://palakportfolio9.netlify.app/chatbot/index.html)
+You can view the live demo of the website at https://aichatbot-palak.netlify.app/
 
 ## Technologies Used
 
